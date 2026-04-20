@@ -1,7 +1,8 @@
 # 📊 Sales Performance Dashboard (Power BI)
 
 ## 📌 Overview
-This project presents an interactive Power BI dashboard to analyze sales performance across different product categories and years. The goal is to derive meaningful insights and support business decision-making.
+This project showcases an interactive Power BI dashboard designed to analyze sales performance across product categories and time periods.  
+The goal is to transform raw data into meaningful insights for business decision-making.
 
 ---
 
@@ -30,6 +31,7 @@ This project presents an interactive Power BI dashboard to analyze sales perform
 ## 📷 Dashboard Preview
 ![Dashboard](Dashboard.png)
 
-## 🚀 Future Improvements
-- Add time-series forecasting  
-- Include customer segmentation analysis  
+---
+
+## 🚀 Project Objective
+The objective of this project is to analyze sales data and identify trends, high-performing products, and revenue drivers to support data-driven decisions.
